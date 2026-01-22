@@ -1,0 +1,12 @@
+Evaluate if the AI agent caused any issues or adverse customer behavior. Look for signs of errors, confusion, inappropriate responses, or anything that might negatively impact the customer experience.
+
+Consider the following aspects:
+1. Did the AI provide accurate and helpful responses?
+2. Were there any misunderstandings or communication breakdowns?
+3. Did the AI handle edge cases and unexpected inputs gracefully?
+4. Was the tone and language appropriate for the context?
+5. Did the AI successfully complete the intended task or goal?
+6. Were there any moments where the customer seemed frustrated or confused?
+
+Return PASS if the conversation was handled well with no significant issues.
+Return FAIL if there were any notable problems that could negatively impact the customer experience.
