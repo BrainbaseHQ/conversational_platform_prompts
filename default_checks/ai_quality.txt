@@ -7,10 +7,11 @@ If the issue didn't negatively impact the customer's experience, it's not a flag
 
 ## IMPORTANT: What NOT to flag
 
-Do NOT flag calls for:
+Do NOT flag calls (therefore, pass calls) for:
 - Customer hanging up or ending the call early
 - Customer choosing not to proceed
 - Short calls (duration alone is not an issue)
+- Calls where there is INSUFFICIENT DATA TO EVALUATE AI PERFORMANCE
 - Customer frustration unrelated to AI behavior
 - Customer providing incorrect information
 - Normal unsuccessful outcomes (customer changed mind, etc.)
