@@ -71,5 +71,5 @@ AI performs an action that contradicts what the customer asked for (e.g., custom
 ---
 
 ## OUTPUT FORMAT
-- If flagging: State the specific observable problem in one sentence. What happened, when in the call, and how it impacted the customer.
+- If flagging: State the specific observable problem in one sentence. What happened, when in the call, and how it impacted the customer. Note which specicific issue above was the error. (i.e. "Error: AI stuck in a loop. [explanation]")
 - If passing: Brief note on outcome.
