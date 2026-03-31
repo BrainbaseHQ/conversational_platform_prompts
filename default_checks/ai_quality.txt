@@ -18,6 +18,7 @@ If the customer hangs up early, the transcript will be short or incomplete. This
 - A short transcript is not evidence of an AI problem. PASS.
 - A transcript with only `[call connected]` and no further interaction = PASS.
 - Do not flag a call just because the transcript is short or the conversation didn't get far.
+- Do not flag a call because the AI was not able to finish their greeting.
 
 ### 3. Insufficient data
 If there is not enough conversation to evaluate AI performance, PASS. This includes:
