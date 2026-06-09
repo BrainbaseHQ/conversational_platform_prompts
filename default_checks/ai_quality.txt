@@ -68,6 +68,11 @@ Customer makes a clear, specific request and the AI does something entirely diff
 ### 5. AI takes wrong action
 AI performs an action that contradicts what the customer asked for (e.g., customer asks for department A and AI routes to department B, customer provides details and AI confirms different details back).
 
+### 6. AI restarts flow
+AI is in the middle of a flow and then says something completely unrelated to its previous action, such as saying the initial first line again.
+
+### 7. AI stops responding
+User says something and the AI never responds. This is an error. To test this, check the time stamps. For example, if the user speaks, and then the agent doesn't speak by the end call mark and there is a 6+ second gap, the agent never responded. Or if the user says something, and then says something 6+ seconds later, the agent never responded.
 ---
 
 ## OUTPUT FORMAT
